@@ -1,0 +1,10 @@
+{
+    "login_data":{
+      "username":"test12345@123gmail.com",
+      "password":"test@123"
+   },
+   "failure_login_data":{
+    "username":"test@123.com",
+    "password":"test@123098"
+   }
+}
