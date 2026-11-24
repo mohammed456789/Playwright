@@ -1,0 +1,10 @@
+async validateProductDetails() {
+
+        await expect(this.productName).toBeVisible();
+        await expect(this.category).toBeVisible();
+        await expect(this.price).toBeVisible();
+        await expect(this.availability).toBeVisible();
+        await expect(this.condition).toBeVisible();
+        await expect(this.brand).toBeVisible();
+    
+    }
